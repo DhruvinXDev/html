@@ -1,0 +1,28 @@
+html tutorial note
+
+<html lang="en"> :- language english
+<br /> :- new line 
+<a href="//link">name_for_display</a>
+<img src="/img_link" alt="for_not_find_img"   />
+<b> bold </b>
+<i> italic </i>
+<u>  underline </u>
+<big> big text </big>
+<small> small text </small>
+<hr> :- horizontal line 
+<sub> subscript </sub>
+<sup> superscript </sup>
+<pre> is coman as per pregraph tag and diffrenace is it allow to use multipal line and next line </pre>
+<header> for header </header>
+<main> for main </main>
+<footer> for footer </footer>
+
+inside main tag 
+<section> for a section on your page
+<article> for a article on your page
+<aside> for content aside main content(ads)
+
+
+relative url :- for in the folder url
+absalute url :- internet url
+
