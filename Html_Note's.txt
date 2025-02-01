@@ -1,6 +1,7 @@
 html note
 
 <html lang="en"> :- language english
+comment :- <!-- write your comment hear -->
 <br /> :- new line 
 <a href="//link">name_for_display</a>
 <img src="/img_link" alt="for_not_find_img"   />
