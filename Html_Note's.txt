@@ -1,4 +1,4 @@
-html tutorial note
+html note
 
 <html lang="en"> :- language english
 <br /> :- new line 
