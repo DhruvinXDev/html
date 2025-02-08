@@ -1,6 +1,7 @@
-html note
+HTML Note
 
 <html lang="en"> :- language english
+
 comment :- <!-- write your comment hear -->
 <br /> :- new line 
 <a href="//link">name_for_display</a>
