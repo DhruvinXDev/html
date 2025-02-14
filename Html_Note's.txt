@@ -1,4 +1,4 @@
-HTML NotE
+HTML NOTE
 
 <html lang="en"> :- language english
 
